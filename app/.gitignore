@@ -1,0 +1,7 @@
+conf_mysql.inc.php
+conf_tpl.inc.php
+conf_memcache.inc.php
+conf_memcache_11.inc.php
+conf_memcache_12.inc.php
+.tags
+.tags_sorted_by_file
